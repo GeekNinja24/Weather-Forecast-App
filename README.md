@@ -9,5 +9,5 @@ Sample Weather Forecast:
 ![sample 4](https://user-images.githubusercontent.com/72194471/206864056-2b7d5505-e196-4102-9aca-bb66cd61e226.PNG)
 ![sample5](https://user-images.githubusercontent.com/72194471/206864080-261062b6-3dd2-47ff-a2c6-8fd255a2d8bb.PNG)
 
-You can try in the below URL:
+You can try in the mentioned URL:
 https://weather-forecaster-geeky24.netlify.app/
